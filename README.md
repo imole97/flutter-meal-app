@@ -1,4 +1,4 @@
-# todo
+# meal-app
 
 A new Flutter project.
 
